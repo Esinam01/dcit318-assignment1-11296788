@@ -1,0 +1,15 @@
+C:\Users\HP\Source\Repos\dcit318-assignment1-11296788\TraingleTypeIdentifier\bin\Debug\net9.0\TraingleTypeIdentifier.exe
+C:\Users\HP\Source\Repos\dcit318-assignment1-11296788\TraingleTypeIdentifier\bin\Debug\net9.0\TraingleTypeIdentifier.deps.json
+C:\Users\HP\Source\Repos\dcit318-assignment1-11296788\TraingleTypeIdentifier\bin\Debug\net9.0\TraingleTypeIdentifier.runtimeconfig.json
+C:\Users\HP\Source\Repos\dcit318-assignment1-11296788\TraingleTypeIdentifier\bin\Debug\net9.0\TraingleTypeIdentifier.dll
+C:\Users\HP\Source\Repos\dcit318-assignment1-11296788\TraingleTypeIdentifier\bin\Debug\net9.0\TraingleTypeIdentifier.pdb
+C:\Users\HP\Source\Repos\dcit318-assignment1-11296788\TraingleTypeIdentifier\obj\Debug\net9.0\TraingleTypeIdentifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Source\Repos\dcit318-assignment1-11296788\TraingleTypeIdentifier\obj\Debug\net9.0\TraingleTypeIdentifier.AssemblyInfoInputs.cache
+C:\Users\HP\Source\Repos\dcit318-assignment1-11296788\TraingleTypeIdentifier\obj\Debug\net9.0\TraingleTypeIdentifier.AssemblyInfo.cs
+C:\Users\HP\Source\Repos\dcit318-assignment1-11296788\TraingleTypeIdentifier\obj\Debug\net9.0\TraingleTypeIdentifier.csproj.CoreCompileInputs.cache
+C:\Users\HP\Source\Repos\dcit318-assignment1-11296788\TraingleTypeIdentifier\obj\Debug\net9.0\TraingleTypeIdentifier.sourcelink.json
+C:\Users\HP\Source\Repos\dcit318-assignment1-11296788\TraingleTypeIdentifier\obj\Debug\net9.0\TraingleTypeIdentifier.dll
+C:\Users\HP\Source\Repos\dcit318-assignment1-11296788\TraingleTypeIdentifier\obj\Debug\net9.0\refint\TraingleTypeIdentifier.dll
+C:\Users\HP\Source\Repos\dcit318-assignment1-11296788\TraingleTypeIdentifier\obj\Debug\net9.0\TraingleTypeIdentifier.pdb
+C:\Users\HP\Source\Repos\dcit318-assignment1-11296788\TraingleTypeIdentifier\obj\Debug\net9.0\TraingleTypeIdentifier.genruntimeconfig.cache
+C:\Users\HP\Source\Repos\dcit318-assignment1-11296788\TraingleTypeIdentifier\obj\Debug\net9.0\ref\TraingleTypeIdentifier.dll
