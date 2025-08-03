@@ -1,0 +1,15 @@
+C:\Users\HP\Source\Repos\dcit318-assignment1-11296788\TicketPrriceCalculator\bin\Debug\net9.0\TicketPrriceCalculator.exe
+C:\Users\HP\Source\Repos\dcit318-assignment1-11296788\TicketPrriceCalculator\bin\Debug\net9.0\TicketPrriceCalculator.deps.json
+C:\Users\HP\Source\Repos\dcit318-assignment1-11296788\TicketPrriceCalculator\bin\Debug\net9.0\TicketPrriceCalculator.runtimeconfig.json
+C:\Users\HP\Source\Repos\dcit318-assignment1-11296788\TicketPrriceCalculator\bin\Debug\net9.0\TicketPrriceCalculator.dll
+C:\Users\HP\Source\Repos\dcit318-assignment1-11296788\TicketPrriceCalculator\bin\Debug\net9.0\TicketPrriceCalculator.pdb
+C:\Users\HP\Source\Repos\dcit318-assignment1-11296788\TicketPrriceCalculator\obj\Debug\net9.0\TicketPrriceCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Source\Repos\dcit318-assignment1-11296788\TicketPrriceCalculator\obj\Debug\net9.0\TicketPrriceCalculator.AssemblyInfoInputs.cache
+C:\Users\HP\Source\Repos\dcit318-assignment1-11296788\TicketPrriceCalculator\obj\Debug\net9.0\TicketPrriceCalculator.AssemblyInfo.cs
+C:\Users\HP\Source\Repos\dcit318-assignment1-11296788\TicketPrriceCalculator\obj\Debug\net9.0\TicketPrriceCalculator.csproj.CoreCompileInputs.cache
+C:\Users\HP\Source\Repos\dcit318-assignment1-11296788\TicketPrriceCalculator\obj\Debug\net9.0\TicketPrriceCalculator.sourcelink.json
+C:\Users\HP\Source\Repos\dcit318-assignment1-11296788\TicketPrriceCalculator\obj\Debug\net9.0\TicketPrriceCalculator.dll
+C:\Users\HP\Source\Repos\dcit318-assignment1-11296788\TicketPrriceCalculator\obj\Debug\net9.0\refint\TicketPrriceCalculator.dll
+C:\Users\HP\Source\Repos\dcit318-assignment1-11296788\TicketPrriceCalculator\obj\Debug\net9.0\TicketPrriceCalculator.pdb
+C:\Users\HP\Source\Repos\dcit318-assignment1-11296788\TicketPrriceCalculator\obj\Debug\net9.0\TicketPrriceCalculator.genruntimeconfig.cache
+C:\Users\HP\Source\Repos\dcit318-assignment1-11296788\TicketPrriceCalculator\obj\Debug\net9.0\ref\TicketPrriceCalculator.dll
